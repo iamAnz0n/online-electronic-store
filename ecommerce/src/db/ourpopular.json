@@ -1,0 +1,56 @@
+{
+    "populars":[
+        {
+            "id":"1",
+            "title":"Dell 5470",
+            "img":"https://www.infotechsnepal.com/wp-content/uploads/2023/03/dell-celeron-5470.jpg",
+            "price": "NPR 37,500.00",
+            "company": "DELL",
+            "processor": "Intel UHD",
+            "displaySize": "14″ FHD",
+            "ram": "8GB RAM",
+            "storage": "256GB SSD",
+            "reviews":"4",
+            "color": "Black"
+          },
+          {
+            "id":"2",
+            "title": "HP VICTUS 15 FA1033NIA ",
+            "img": "https://www.infotechsnepal.com/wp-content/uploads/2023/11/HP-VICTUS-15-FA1033NIA-core-i5-13420H-RTX%E2%84%A2-2050-8GB-RAM-512GB-SSD-15.6-FHD-1.jpg ",
+            "price": "NPR 116,000.00 ",
+            "company": "HP ",
+            "processor": " | Intel Core i5 13420H",
+            "displaySize": " 15.6″ FHD",
+            "ram": "|8GB RAM ",
+            "storage": "512GB SSD ",
+            "reviews":"4",
+            "color": "Blue"
+          },
+          {
+          "id":"3",
+          "title": " Lenovo IdeaPad 1i",
+          "img": "https://www.infotechsnepal.com/wp-content/uploads/2023/11/Lenovo-Ideapad-1i-price-nepal.jpg",
+          "price": "NPR 52,500.00",
+          "company": " Lenovo",
+          "processor": "Intel Core i3-1215U",
+          "displaySizE": "14″ HD ",
+          "ram": "8GB RAM ",
+          "storage": "256GB SSD",
+          "reviews":"3",
+          "color": "Cloud Grey "
+          },
+          {
+            "id":"4",
+            "title": " Lenovo IdeaPad 3",
+            "img": "https://www.infotechsnepal.com/wp-content/uploads/2023/12/1-24.jpg",
+            "price": "NPR 50,500.00",
+            "company": "Lenovo ",
+            "processor": "AMD Ryzen 3 5425U",
+            "displaySize": "15.6″ FHD ",
+            "ram": "8GB RAM ",
+            " storage": "256GB SSD",
+            "reviews":"5",
+            "color": "Silver "
+          }
+    ]
+}

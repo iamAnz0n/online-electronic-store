@@ -1,0 +1,34 @@
+{
+    "specials":
+    [
+        {
+            "id":"1",
+            "title":"Lenovo LOQ Gaming Laptop",
+            "img":"https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Flenovo-loq-gaming-laptop-i5-4050-price-nepal%2Fthumb%2F5160da8c-6b88-4be7-b203-36626d88989b.webp&w=1920&q=75",
+            "price": "NPR 1,32,000",
+            "oldprice":"NPR 1,45,000",
+            "company": "Lenovo",
+            "processor": "Intel Core i2 12450H",
+            "displaySize":"15.6 FHD (1920X1080) 144Hz display",
+            "ram":"16GB SO-DIMM DDR5-5600",
+            "storage":"512GB SSD",
+            "reviews":"4",
+            "color": "Black"
+        },
+        {
+            "id": "2",
+            "title": "HP Envy x360 14",
+            "img": " https://www.infotechsnepal.com/wp-content/uploads/2024/01/1-9.jpg",
+            "price": "NPR 106,500.00 ",
+            "oldprice":"NPR 1,15,000",
+            "company": "HP ",
+            "processor": "Intel® Core™ i5-1335U ",
+            "displaySize": "14″ FHD ",
+            "ram": " 8GB RAM ",
+            "storage":" 512GB SSD",
+            "reviews":"5",
+            "color": "Silver"
+          }
+    ]
+
+}
